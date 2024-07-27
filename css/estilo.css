@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+.titulo{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.c1{
+    text-align: center;
+}
+.p1{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
